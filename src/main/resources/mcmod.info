@@ -2,7 +2,7 @@
 {
   "modid": "coincounter",
   "name": "Coin Counter",
-  "description": "Counts the coins in your game! Supported games: BedWars. This could work for others, but these are the ones I've tested.",
+  "description": "Counts the coins in your game! Supported games: BedWars, SkyWars. This could work for others, but these are the ones I've tested.",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",
