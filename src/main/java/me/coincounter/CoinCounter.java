@@ -19,7 +19,7 @@ import net.minecraftforge.fml.common.eventhandler.SubscribeEvent;
 public class CoinCounter
 {
     public static final String MODID = "coincounter";
-    public static final String VERSION = "1.1";
+    public static final String VERSION = "1.2";
     
     @EventHandler
     public void init(FMLInitializationEvent event)
